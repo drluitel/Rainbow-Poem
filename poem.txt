@@ -2,4 +2,7 @@ The rainboe
 read 
 purpal 
 pink
+green
+blue
+orange
 This are the color of the poem
