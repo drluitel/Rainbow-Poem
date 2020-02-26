@@ -1,6 +1,8 @@
 The rainbow and the Unicorn
 read 
 purpal 
+yellow 
+indigo
 pink
 green
 Unicorn
