@@ -4,5 +4,6 @@ purpal
 pink
 green
 blue
+gigint
 orange
 This are the color of the poem
